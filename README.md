@@ -1,5 +1,5 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-![Logo](./logo.png?raw=true "Logo")
+![Logo](6C03C0B3-26D0-4C6E-8701-DCB81FB3AFF5.png?raw=true|width=25 "Logo")
 
 
 # Wiki Resumer
